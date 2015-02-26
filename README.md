@@ -1,6 +1,7 @@
 [![Circle CI](https://circleci.com/gh/driftyco/ionic.svg?style=svg)](https://circleci.com/gh/driftyco/ionic)
 
 
+
 [![Issues Ready](https://badge.waffle.io/driftyco/ionic.png?label=ready&title=Ready)](https://waffle.io/driftyco/ionic)
 
 The best place to start with Ionic is our [documentation page](http://ionicframework.com/docs/).
